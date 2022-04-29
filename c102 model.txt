@@ -1,0 +1,7 @@
+https://teachablemachine.withgoogle.com/models/KLlWCogdT/model.json
+
+navadeep
+holepunch
+watch
+tv remote
+car keys
